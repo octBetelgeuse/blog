@@ -1,15 +1,12 @@
 ---
 layout:     post
-title:      ReactiveCocoa 进阶
-subtitle:   函数式编程框架 ReactiveCocoa 进阶
-date:       2017-01-06
-author:     BY
-header-img: img/post-bg-ios9-web.jpg
+title:      test01
+subtitle:   rua
+date:       2019-5-19
+author:     Oct
+header-img: img/bakcground.jpg
 catalog: true
 tags:
-    - iOS
-    - ReactiveCocoa
-    - 函数式编程
-    - 开源框架
+
 ---
     哼姆姆，如何？
