@@ -1,7 +1,7 @@
 # Site settings
 title: Betelgeuse
 SEOTitle: Ryo
-header-img: img/post-bg-desk.jpg
+header-img: img/background.jpg
 email: roam6748@gmail.com
 description: "For Ryo."
 keyword: "了,杂,书,画,学"
@@ -13,7 +13,7 @@ github_repo: "https://github.com/octBetelgeuse/octBetelgeuse.github.io.git" # yo
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "boringman"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-oct.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
